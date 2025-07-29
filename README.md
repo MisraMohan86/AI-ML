@@ -3,8 +3,7 @@
 - 🔭 I’m working on **Python, AI, and Web Dev**  
 - 🌱 Learning **Machine Learning**  
 - 💬 Ask me about **Open Source**  
-- 📫 How to reach me: **kk_mishra1986@outlook.com**  
-- 😄 Pronouns: He  
+-- 😄 Pronouns: He  
 - ⚡ Fun fact: I am Data Scientist
 
 ## My Projects 🚀  
