@@ -12,6 +12,6 @@ I transform raw data into actionable insights and empower the next generation of
 - 🌱 **Learning:** AI,ML and Generative AI.
 - 👨‍💻 **Tech Trainer:** Teaching Python, SQL, and Data Science to aspiring professionals.
 - 💬 **Ask me about:** SQL Optimization, Data Visualization, or Dot Net/Java
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mishra1986/)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I’ve written 1000+ SQL queries and still counting!
