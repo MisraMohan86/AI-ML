@@ -5,7 +5,7 @@
 - 💬 Ask me about **Open Source**  
 - 📫 How to reach me: **kk_mishra1986@outlook.com**  
 - 😄 Pronouns: He  
-- ⚡ Fun fact: I am DData Scientist
+- ⚡ Fun fact: I am Data Scientist
 
 ## My Projects 🚀  
 
